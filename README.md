@@ -2,7 +2,7 @@
 
 <h2> 💻 General IT Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
 
 <h2>Certifications</h2>
 
