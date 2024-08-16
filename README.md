@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
 
-- 
+- [CompTIA A+](https://www.credly.com/badges/06dbad82-dcb9-4adf-8b4f-3baba25a26d8/public_url)
 
 <h2> 🌐 Connect with me:</h2>
 
