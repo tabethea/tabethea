@@ -4,6 +4,10 @@
 
   - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
 
+<h2> 🛡️ CyberSecurity Projects:</h2>
+
+- [SIEM Lab](https://github.com/tabethea/SIEM-Lab)
+
 <h2>Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/06dbad82-dcb9-4adf-8b4f-3baba25a26d8/public_url)
