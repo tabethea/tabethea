@@ -1,6 +1,6 @@
 <h1>Hello, I'm Tarrance!</h1>
 
-<h2> 💻 General IT Projects:</h2>
+<h2> 💻 Systems Administration & Automation:</h2>
 
   - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
 
