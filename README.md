@@ -1,10 +1,10 @@
 <h1>Hello, I'm Tarrance!</h1>
 
-<h2> 💻 Systems Administration & Automation:</h2>
+<h2> 💻 Systems Administration & IT Infrastructure:</h2>
 
   - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
 
-<h2> 🔐 CyberSecurity Projects:</h2>
+<h2> 🔐 CyberSecurity:</h2>
 
 - [Microsoft Azure Honeypot](https://github.com/tabethea/SIEM-Lab)
 
