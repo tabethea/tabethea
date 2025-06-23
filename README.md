@@ -4,9 +4,9 @@
 
   - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
 
-<h2> 🛡️ CyberSecurity Projects:</h2>
+<h2> 🔐 CyberSecurity Projects:</h2>
 
-- [SIEM Lab](https://github.com/tabethea/SIEM-Lab)
+- [Microsoft Azure Honeypot](https://github.com/tabethea/SIEM-Lab)
 
 <h2>Certifications</h2>
 
