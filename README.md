@@ -1,10 +1,13 @@
 <h1>Hello, I'm Tarrance!</h1>
 
-<h2> 💻🔒 IT Infrastructure & Cybersecurity:</h2>
+<h2> 💻 IT Infrastructure:</h2>
 
   - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
-  - [Microsoft Azure Honeypot](https://github.com/tabethea/SIEM-Lab)
-  - [Ubuntu-Azure-Hybrid-Lab](https://github.com/tabethea/Ubuntu-Azure-Hybrid-Lab)
+
+<h2> 🛡️☁️ Cloud & Cybersecurity:</h2>
+
+- [Microsoft Azure Honeypot](https://github.com/tabethea/SIEM-Lab)
+- [Ubuntu-Azure-Hybrid-Lab](https://github.com/tabethea/Ubuntu-Azure-Hybrid-Lab)
 
 <h2> 📄 Certifications</h2>
 
