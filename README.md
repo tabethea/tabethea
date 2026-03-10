@@ -1,5 +1,5 @@
-<h1>Hello, I'm Tarrance!</h1>
-
+<h2>😎 About Me:</h2>
+I am an Information Systems Management & Cybersecurity student focused on defensive security. This GitHub showcases hands-on projects in system administration, automation, cloud infrastructure, and security monitoring. Each project is designed to simulate real-world environments and strengthen my skills in defensive security. 
 <h2> 💻 IT Infrastructure:</h2>
 
   - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
