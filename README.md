@@ -2,12 +2,12 @@
 I am an Information Systems Management & Cybersecurity student focused on defensive security. This GitHub showcases hands-on projects in system administration, automation, cloud infrastructure, and security monitoring. Each project is designed to simulate real-world environments and strengthen my skills in defensive security. 
 <h2> 💻 IT Infrastructure:</h2>
 
-  - [Active Directory Lab](https://github.com/tabethea/ActiveDirectoryLab)
+  - [Active Directory Domain Deployment](https://github.com/tabethea/Active-Directory-Domain-Deployment)
 
 <h2> 🛡️☁️ Cloud & Cybersecurity:</h2>
 
-- [Microsoft Azure Honeypot](https://github.com/tabethea/SIEM-Lab)
-- [Ubuntu-Azure-Hybrid-Lab](https://github.com/tabethea/Ubuntu-Azure-Hybrid-Lab)
+- [Microsoft Sentinel (SIEM) Threat Analysis](https://github.com/tabethea/Microsoft-Sentinel-SIEM-Threat-Analysis)
+- [Azure Ubuntu Hybrid Infrastructure Lab](https://github.com/tabethea/Azure-Ubuntu-Hybrid-Infrastructure-Lab)
 
 <h2> 📄 Certifications</h2>
 
