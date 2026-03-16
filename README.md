@@ -12,6 +12,7 @@ I am an Information Systems Management & Cybersecurity student focused on defens
 <h2> 📄 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/06dbad82-dcb9-4adf-8b4f-3baba25a26d8/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/2c00caa7-5752-48d9-97e0-9dc96cd0eb79/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/fb059518-d533-4930-8934-118129ee021c/linked_in_profile)
 
 <h2> 🌐 Connect with me:</h2>
