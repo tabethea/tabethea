@@ -1,13 +1,16 @@
 <h2>😎 About Me:</h2>
-I am a Cybersecurity student focused on defensive security. This GitHub showcases hands-on projects in system administration, automation, cloud infrastructure, and security monitoring. Each project is designed to simulate real-world environments and strengthen my skills in defensive security. 
-<h2> 💻 IT Infrastructure:</h2>
+Information Systems and Cybersecurity student at UNC Greensboro focused on cloud-based defensive security and blue team operations.. This GitHub showcases hands-on projects in system administration, automation, cloud infrastructure, and security monitoring. Each project is designed to simulate real-world environments and strengthen my skills in defensive security. 
+<h2> ☁️ Cloud Infrastructure:</h2>
+
+- [Azure Ubuntu Hybrid Infrastructure Lab](https://github.com/tabethea/Azure-Ubuntu-Hybrid-Infrastructure-Lab)
+
+<h2> 🖥️ System Administration & Virtualization:</h2>
 
   - [Active Directory Domain Deployment](https://github.com/tabethea/Active-Directory-Domain-Deployment)
 
-<h2> 🛡️☁️ Cloud & Cybersecurity:</h2>
+<h2> 🛡️Security & Monitoring:</h2>
 
 - [Microsoft Sentinel (SIEM) Threat Analysis](https://github.com/tabethea/Microsoft-Sentinel-SIEM-Threat-Analysis)
-- [Azure Ubuntu Hybrid Infrastructure Lab](https://github.com/tabethea/Azure-Ubuntu-Hybrid-Infrastructure-Lab)
 
 <h2> 📄 Certifications</h2>
 
